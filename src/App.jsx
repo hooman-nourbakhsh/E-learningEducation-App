@@ -1,4 +1,5 @@
 import Banner from "./components/Banner";
+import Community from "./components/Community";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Subscribe from "./components/Subscribe";
@@ -10,6 +11,7 @@ const App = () => {
       <Services />
       <Banner />
       <Subscribe />
+      <Community />
     </main>
   );
 };
