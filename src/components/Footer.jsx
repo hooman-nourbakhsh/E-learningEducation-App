@@ -21,7 +21,7 @@ const Footer = () => {
               <div className="space-y-4">
                 <h1 className="text-2xl font-bold">Courses</h1>
                 <div className="text-dark2">
-                  <ul className="space-y-2 text-lg ">
+                  <ul className="space-y-2 2xl:text-lg">
                     <li className="cursor-pointer hover:text-secondary duration-200">Web Development</li>
                     <li className="cursor-pointer hover:text-secondary duration-200">Software Development</li>
                     <li className="cursor-pointer hover:text-secondary duration-200">Apps Development</li>
@@ -32,7 +32,7 @@ const Footer = () => {
               <div className="space-y-4">
                 <h1 className="text-2xl font-bold">Links</h1>
                 <div className="text-dark2">
-                  <ul className="space-y-2 text-lg ">
+                  <ul className="space-y-2 2xl:text-lg ">
                     <li className="cursor-pointer hover:text-secondary duration-200">Home</li>
                     <li className="cursor-pointer hover:text-secondary duration-200">Services</li>
                     <li className="cursor-pointer hover:text-secondary duration-200">About</li>
